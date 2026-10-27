@@ -10,3 +10,5 @@ include device/samsung/exynos9820-common/BoardConfigCommon.mk
 
 TARGET_BOOTLOADER_BOARD_NAME := exynos9825
 TARGET_BOARD_PLATFORM := universal9825
+
+OF_STATUS_H := 85
